@@ -1,1 +1,1 @@
-print ('hello world')
+print ('我就是随便写点东西')
