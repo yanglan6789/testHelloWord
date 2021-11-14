@@ -1,1 +1,1 @@
-print ('我就是随便写点东西')
+priint("hey siri1")
